@@ -5,4 +5,6 @@ Currently my technological stack consisit with several instances as mention foll
 
 ![Thanura's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanurasilva&show_icons=true&theme=github_dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanurasilva&layout=compact)](https://github.com/thanurasilva/github-readme-stats)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThanuraSilva)  
