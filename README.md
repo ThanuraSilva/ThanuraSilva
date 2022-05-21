@@ -2,9 +2,22 @@
 
 I'm Thanura Silva and my career life ongoing as a Trainee Software Engineer engage at the Institute of Software Engineering (IJSE), Panadura, Sri Lanka. I enjoy the successful outcome that accomplishes several obstacles and it is also applicable to the Software Development process. Currently, my technological stack consists of several instances as mentioned end of the description, and mainly I'm a full stack developer. Java is my initial language since I take my first footstep in the programming world. Further JS,TS ,HTML and CSS are my favaroite languesges. You can share your skills with me and I love it and pleasure to meet you on this energetic platform
 
-## Skills
+## Language Stack
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  
+## Database Handling  
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+## Operating Systems
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  
 
 
 ![Thanura's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanurasilva&show_icons=true&theme=github_dark)
