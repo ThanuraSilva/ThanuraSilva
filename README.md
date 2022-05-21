@@ -52,8 +52,6 @@ I'm Thanura Silva and my career life ongoing as a Trainee Software Engineer and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanurasilva&layout=compact)](https://github.com/thanurasilva/github-readme-stats)
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
