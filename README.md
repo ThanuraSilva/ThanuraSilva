@@ -4,3 +4,5 @@ I'm Thanura Silva and my career life ongoing as a Trainee Software Engineer enga
 Currently my technological stack consisit with several instances as mention follows and mainy I.m a ful lstack developer. Java is my initaial language since I take my first footstep in the programing world. Further JS,TS ,HTML and CSS are my favaroite languesges. You can share with your skills with me and I love it and pleaseure to meet you in this enagitic platform
 
 [![Thanura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanuraSilva)](https://github.com/thanurasilva/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThanuraSilva)  
