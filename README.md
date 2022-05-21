@@ -9,15 +9,13 @@ Currently my technological stack consisit with several instances as mention foll
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThanuraSilva)  
 
-<!-- display the social media buttons in your README -->
 
 
-<!-- To Link your profile to the media buttons -->
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
 
-[1]: https://www.facebook.com/username
-[2]: https://www.instagram.com/username
 [3]: https://www.twitter.com/username
 [4]: https://www.linkedin.com/in/username
 [5]: https://www.github.com/username
-[6]: https://in.pinterest.com/username
-[7]: https://username.tumblr.com
+
