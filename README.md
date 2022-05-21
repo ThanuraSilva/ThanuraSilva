@@ -7,15 +7,11 @@ Currently my technological stack consisit with several instances as mention foll
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanurasilva&layout=compact)](https://github.com/thanurasilva/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThanuraSilva)  
-
-
-
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
 
-[3]: https://www.twitter.com/username
-[4]: https://www.linkedin.com/in/username
-[5]: https://www.github.com/username
+[3]: https://www.twitter.com/ThanuraSilva22
+[4]: https://www.linkedin.com/in/thanura-silva-40556b23a/
+[5]: https://www.github.com/ThanuraSilva
 
