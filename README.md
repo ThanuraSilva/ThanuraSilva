@@ -26,6 +26,9 @@ My career life ongoing as a Trainee Software Engineer and a Full Stack Developer
    
  ## Security
  ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+ 
+ ## ORM
+ ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
   
 ## Database Handling  
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
