@@ -58,7 +58,7 @@ My career life ongoing as a Trainee Software Engineer and a Full Stack Developer
 
 ![Thanura's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanurasilva&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green/?username=thanurasilva&layout=compact)](https://github.com/thanurasilva/github-readme-stats)*/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanurasilva&layout=compact)](https://github.com/thanurasilva/github-readme-stats)
 
 
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
