@@ -64,8 +64,6 @@ My career life is ongoing as a Software Engineer and a Full Stack Developer. I e
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-![Thanura's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanurasilva&show_icons=true&theme=github_dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanurasilva&layout=demo)](https://github.com/thanurasilva/github-readme-stats)
 
 
